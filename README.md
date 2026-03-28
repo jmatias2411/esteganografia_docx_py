@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DocxFingerprint — Sistema de Trazabilidad Documental
 
 > Incrusta una huella invisible e infalsificable en documentos Word (.docx) para identificar el origen de filtraciones.
@@ -166,3 +167,6 @@ docx-fingerprint/
 ## Licencia
 
 MIT License — ver archivo `LICENSE` para más detalles.
+=======
+# esteganografia_docx_py
+>>>>>>> c98e4622a9deac980d3e073653d989f991c20073
