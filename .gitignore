@@ -1,0 +1,29 @@
+# Clave secreta — nunca subir al repositorio
+fingerprint.key
+
+# Registro local de huellas generadas
+fingerprint_registry.json
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
