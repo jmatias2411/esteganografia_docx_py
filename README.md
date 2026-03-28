@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DocxFingerprint — Sistema de Trazabilidad Documental
 
 > Incrusta una huella invisible e infalsificable en documentos Word (.docx) para identificar el origen de filtraciones.
